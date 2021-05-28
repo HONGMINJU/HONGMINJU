@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFC456&height=250&section=header&text=MINJU's%20GitHub&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FFC456&height=250&section=header&text=MINJU's%20GitHub&fontSize=70&animation=fadeIn)
 
 <div align='center'>
   
@@ -30,4 +30,4 @@
   <a href="https://velog.io/@tlsrlgkrry"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat&logo=Vimeo&logoColor=white"/></a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FDD995&height=250&section=footer&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FDD995&height=250&section=footer&animation=scaleIn)

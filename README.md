@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=MINJU's github's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=MINJU'sgithub's%20GitHub&fontSize=70&animation=scaleIn)
 
 ![HONGMINJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGMINJU)](https://github.com/anuraghazra/github-readme-stats)
 

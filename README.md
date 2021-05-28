@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/JavaScript%20-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5%20-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3%20-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot%20-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-Boot%20-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/AmazonAWS%20-232F3E?style=flat-square&logo=aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GoogleCloud%20-4285F4?style=flat-square&logo=gcp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon-AWS%20-232F3E?style=flat-square&logo=aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google-Cloud%20-4285F4?style=flat-square&logo=gcp&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL%20-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL%20-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
      <img src="https://img.shields.io/badge/RabbitMQ%20-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>

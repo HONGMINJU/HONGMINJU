@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=MINJU's%20GitHub&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFC456&height=250&section=header&text=MINJU's%20GitHub&fontSize=70&animation=fadeIn)
 
 <div align='center'>
   
-  안녕하세요 :-)
+  안녕하세요 :-)<br>
   백엔드 개발자를 꿈꾸는 홍민주입니다.
 
 
@@ -24,8 +24,10 @@
      <img src="https://img.shields.io/badge/Elasticsearch%20-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
     <br>
     <br>
-   <h1>about me</h1>
+  <br>
+  <br>
+   <h1>🐣 about me 🐣</h1>
   <a href="https://velog.io/@tlsrlgkrry"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat&logo=Vimeo&logoColor=white"/></a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=footer&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FDD995&height=250&section=footer&animation=scaleIn)

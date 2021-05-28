@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![HONGMINJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=HONGMINJU)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **HONGMINJU/HONGMINJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

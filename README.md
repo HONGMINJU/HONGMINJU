@@ -20,8 +20,8 @@
     <br>
     <img src="https://img.shields.io/badge/MySQL%20-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL%20-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-     <img src="https://img.shields.io/badge/RabbitMQ%20-FF6600?style=flat&logo=RabbitMQ&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Elasticsearch%20-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
+    // <img src="https://img.shields.io/badge/RabbitMQ%20-FF6600?style=flat&logo=RabbitMQ&logoColor=white"/>
+    // <img src="https://img.shields.io/badge/Elasticsearch%20-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
     <br>
     <br>
   <br>
